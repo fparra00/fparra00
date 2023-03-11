@@ -106,4 +106,3 @@ Thanks to this, I developed myself independently with multi-platform languages s
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
