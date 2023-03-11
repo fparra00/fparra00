@@ -2,7 +2,9 @@
   
 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
-  
+  <br/>  
+<br/>  
+
 
 -  👨‍🎓 Graduado en Sistemas Microinformáticos y Redes, Desarrollo de Aplicaciones Web, y Desarrollo de Aplicaciones Multiplataforma  
   
